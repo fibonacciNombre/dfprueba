@@ -9,6 +9,11 @@
 			"tetetet": {
 				"type": "string",
 				"value": "ijijij"
+      },
+			"param_prueba": {
+				"type": "string",
+				"value": "terminal"
+
 			}
 		}
 	},
