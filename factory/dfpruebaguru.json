@@ -2,9 +2,18 @@
 	"name": "dfpruebaguru",
 	"properties": {
 		"globalParameters": {
+			"param": {
+				"type": "string",
+				"value": "terminal"
+			},
+			"tetetet": {
+				"type": "string",
+				"value": "ijijij"
+      },
 			"param_prueba": {
 				"type": "string",
 				"value": "terminal"
+
 			}
 		}
 	},
