@@ -5,6 +5,10 @@
 			"param": {
 				"type": "string",
 				"value": "terminal"
+			},
+			"tetetet": {
+				"type": "string",
+				"value": "ijijij"
 			}
 		}
 	},
