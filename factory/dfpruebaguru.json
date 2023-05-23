@@ -1,5 +1,13 @@
 {
 	"name": "dfpruebaguru",
+	"properties": {
+		"globalParameters": {
+			"param_prueba": {
+				"type": "string",
+				"value": "terminal"
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
